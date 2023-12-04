@@ -1,0 +1,24 @@
+#\u914D\u7F6E\u6570\u636E\u6E90
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.zaxxer.hikari.HikariDataSource
+    url: jdbc:mysql://localhost:3306/ssm
+    username: root
+    password: 123456
+  profiles:
+    active: dev,test
+
+#\u8BBE\u7F6Emybatis\u7684\u6620\u5C04\u6587\u4EF6\u5BF9\u5E94
+mybatis:
+  mapper-locations: classpath:/mapper/*.xml
+  #\u5F00\u542F\u9A7C\u5CF0\u547D\u540D
+  configuration:
+    map-underscore-to-camel-case: true
+
+
+server:
+  port: 8050
+
+
+

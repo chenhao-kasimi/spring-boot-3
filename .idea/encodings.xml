@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../../../maven/load/org/springframework/boot/spring-boot-starter-parent/3.1.2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-1-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot-1-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot3-03-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot3-05-SSM/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boot3-4-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

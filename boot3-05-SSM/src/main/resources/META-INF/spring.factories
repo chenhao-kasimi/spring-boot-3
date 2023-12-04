@@ -1,0 +1,5 @@
+org.springframework.boot.SpringApplicationRunListener=\
+  com.atguigu.boot3.ssm.Listener.MyListener
+
+
+

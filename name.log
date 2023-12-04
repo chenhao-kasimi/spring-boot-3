@@ -1,0 +1,25 @@
+2023-09-24T15:42:32.290+08:00  INFO 21184 --- [main] c.a.logging.Boot303LoggingApplication    : Starting Boot303LoggingApplication using Java 17.0.6 with PID 21184 (D:\Java\note\springboot\workspace\spring-boot-3\boot3-03-logging\target\classes started by infinity in D:\Java\note\springboot\workspace\spring-boot-3)
+2023-09-24T15:42:32.299+08:00  INFO 21184 --- [main] c.a.logging.Boot303LoggingApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-09-24T15:42:33.266+08:00 ERROR 21184 --- [main] o.a.catalina.core.AprLifecycleListener   : An incompatible version [1.2.16] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-09-24T15:42:33.455+08:00  INFO 21184 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-09-24T15:42:33.467+08:00  INFO 21184 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-24T15:42:33.470+08:00  INFO 21184 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-09-24T15:42:33.575+08:00  INFO 21184 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-24T15:42:33.575+08:00  INFO 21184 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1189 ms
+2023-09-24T15:42:34.137+08:00  INFO 21184 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-09-24T15:42:34.149+08:00  INFO 21184 --- [main] c.a.logging.Boot303LoggingApplication    : Started Boot303LoggingApplication in 2.694 seconds (process running for 3.688)
+2023-07-24T16:02:31.125+08:00  INFO 19948 --- [main] c.a.logging.Boot303LoggingApplication    : Starting Boot303LoggingApplication using Java 17.0.6 with PID 19948 (D:\Java\note\springboot\workspace\spring-boot-3\boot3-03-logging\target\classes started by infinity in D:\Java\note\springboot\workspace\spring-boot-3)
+2023-07-24T16:02:31.127+08:00  INFO 19948 --- [main] c.a.logging.Boot303LoggingApplication    : No active profile set, falling back to 1 default profile: "default"
+2023-07-24T16:02:31.762+08:00 ERROR 19948 --- [main] o.a.catalina.core.AprLifecycleListener   : An incompatible version [1.2.16] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.34]
+2023-07-24T16:02:31.907+08:00  INFO 19948 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-07-24T16:02:31.918+08:00  INFO 19948 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-24T16:02:31.919+08:00  INFO 19948 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.11]
+2023-07-24T16:02:31.985+08:00  INFO 19948 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-24T16:02:31.985+08:00  INFO 19948 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 813 ms
+2023-07-24T16:02:32.226+08:00  INFO 19948 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-24T16:02:32.234+08:00  INFO 19948 --- [main] c.a.logging.Boot303LoggingApplication    : Started Boot303LoggingApplication in 1.508 seconds (process running for 2.401)
+2023-07-24T16:02:38.914+08:00  INFO 19948 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-24T16:02:38.914+08:00  INFO 19948 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-07-24T16:02:38.914+08:00  INFO 19948 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-07-24T16:02:38.927+08:00 ERROR 19948 --- [http-nio-8080-exec-1] c.a.logging.controller.HelloController   : error日志启动
+2023-07-24T16:02:42.090+08:00 ERROR 19948 --- [http-nio-8080-exec-2] c.a.logging.controller.HelloController   : error日志启动
