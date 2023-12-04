@@ -13,7 +13,7 @@ public class MyListener implements SpringApplicationRunListener {
     @Override
     public void starting(ConfigurableBootstrapContext bootstrapContext) {
         log.info("1.starting=======监听器正在启动");
-        System.out.println("1.starting=======监听器正在启动");
+        System.out.println("1.starting=======监听器正在启动中");
     }
 
     @Override
